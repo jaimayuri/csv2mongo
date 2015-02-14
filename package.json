@@ -1,0 +1,13 @@
+{
+  "name": "csvclient",
+  "description": "Project to populate Prasar bharti Recruitment Drive",
+  "author": "Nitin Sharma <astamivishwakarma@gmail.com>",
+  "dependencies": {
+  	"csvtojson": "^0.3.17",
+  	"restler":"^3.2.2",
+    "jsonfile":"^2.0.0"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
