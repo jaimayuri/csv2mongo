@@ -1,7 +1,7 @@
 {
   "name": "csvclient",
-  "description": "Project to populate Prasar bharti Recruitment Drive",
-  "author": "Nitin Sharma <astamivishwakarma@gmail.com>",
+  "description": "Example for uploading csv with json compatible headers to mongo|restheart project",
+  "author": "mayuri jain <jaimayuri@gmail.com>",
   "dependencies": {
   	"csvtojson": "^0.3.17",
   	"restler":"^3.2.2",
